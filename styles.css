@@ -72,6 +72,7 @@ font-style: italic;
 #name{ 
 margin-bottom: 4px;
 padding: 10px;
+
 }
 #email{
 margin-top: 2px;
@@ -84,6 +85,23 @@ textarea{
   padding-top: 10px;
   padding-left: 5px;
   box-sizing: border-box;
+}
+#btn2{
+  background-color: orange;
+  color: white;
+  width: 80ch;
+  border-color: orange;
+  padding: 3px;
+}
+.footer{
+  margin-top: 100px;
+  background-color:#333;
+  color: white;
+  text-align: center;
+  font-size: small;
+  padding: 15px;
+
+
 }
   /* Add your hero section styles here */
 
